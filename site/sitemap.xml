@@ -4,7 +4,15 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-11-01</lastmod>
+     <lastmod>2016-11-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/installation/</loc>
+     <lastmod>2016-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,14 +20,14 @@
     
         
     <url>
-     <loc>None/introduction/</loc>
-     <lastmod>2016-11-01</lastmod>
+     <loc>None/cypher/</loc>
+     <lastmod>2016-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/unittest_vs/</loc>
-     <lastmod>2016-11-01</lastmod>
+     <loc>None/client/</loc>
+     <lastmod>2016-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
         

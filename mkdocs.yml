@@ -1,12 +1,14 @@
-site_name: C++Tutorial
+site_name: Neo4J
 site_author: "Vu Anh"
 google_analytics: ["UA-68978617-1", "magizbox.com"]
 
 pages:
 - "Home": 'index.md'
+- "Installation": 'installation.md'
 - "Docs":
-  - "Introduction": "introduction.md"
-  - "Create Unit Test in Visual Studio 2013": "unittest_vs.md"
+  - "Cypher": "cypher.md"
+  - "Client": "client.md"
+
 
 markdown_extensions:
     - footnotes
